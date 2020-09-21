@@ -8,6 +8,10 @@ It was then I started experimenting with code & entered the beautiful world of h
 
 ## My Stack
 
+<img align="left" alt="Javascript" width="25px" src="https://github.com/benvanlooy/benvanlooy/blob/master/img/logo-js.svg" />
+<img align="left" alt="PHP" width="25px" src="https://github.com/benvanlooy/benvanlooy/blob/master/img/logo-php.svg" />
+<img align="left" alt="MySql" width="25px" src="https://github.com/benvanlooy/benvanlooy/blob/master/img/logo-mysql.svg" />
+
 ## Random stuff about me
 
 - 🔭 I’m currently working for BBC
