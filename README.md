@@ -12,7 +12,7 @@ My big passion has always been "building websites", I've seen a major shift in w
 
 ## My interests
 
-`HTML` // `CSS` // `JavaScript` // `PHP` // `SQL` // `API's` // `Visual Studio Code` // `Gulp` // `GitHub` / `GitLab` // `Sketch` // `Adobe XD` // `Photoshop`
+`HTML` // `CSS` // `JavaScript` // `PHP` // `SQL` // `API's` // `Visual Studio Code` // `Gulp` // `GitHub` / `GitLab` // `Sketch` // `Adobe XD` // `Photoshop` // ...
 
 ## Things I enjoy making
 
