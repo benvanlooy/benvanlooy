@@ -19,7 +19,7 @@ My big passion has always been "building websites", I've seen a major shift in w
 - 😱 In my previous job, I used to program in Actionscript 3, building a SaaS appliction in Flex.
 - 🔭 I’m currently working for BBC (B2B advertising agency)
 - 🌱 I’m currently learning all about PWA's
-- ⚡ Fun fact: I'm one of those developers that wishes he had his own portfolio site but it is picky about the design that I just might never happen ;-)
+- ⚡ Fun fact: I'm one of those developers that wishes he had his own portfolio site but is so picky about the design that I just might never happen ;-)
 <!--
 
 **benvanlooy/benvanlooy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
