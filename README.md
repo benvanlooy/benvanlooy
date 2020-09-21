@@ -2,7 +2,7 @@
 
 ### I'm Ben
 
-#### I live in Belgium & I've been a <del>front-end</del> web-developer since.. 1999 (I guess) when I built my first website at the age of 14!
+I live in Belgium & I've been a <del>front-end</del> web-developer since.. 1999 (I guess) when I built my first website at the age of 14!
 
 ## More about me
 
@@ -12,15 +12,14 @@ My big passion has always been "building websites", I've seen a major shift in w
 
 ## My Stack
 
-HTML // CSS // JavaScript // PHP // Visual Studio Code // GitHub // Sketch // Adobe XD
+'HTML' // CSS // JavaScript // PHP // Visual Studio Code // GitHub // Sketch // Adobe XD //
 
 ## Random stuff about me
 
 - 🔭 I’m currently working for BBC (B2B advertising agency)
 - 🌱 I’m currently learning all about PWA's
-
+- ⚡ Fun fact: I'm one of those developers that wishes he has his own portfolio site but it is picky about the design that I just might never happen ;-)
 <!--
-
 
 **benvanlooy/benvanlooy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -33,5 +32,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
