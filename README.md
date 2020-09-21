@@ -1,4 +1,4 @@
-## Hi there <img src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/fire.gif?raw=true" alt="hello" width="35" height="35"/>
+## `Hi there` <img src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/fire.gif?raw=true" alt="hello" width="35" height="35"/>
 
 ### I'm Ben
 
