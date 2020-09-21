@@ -1,10 +1,10 @@
 ## Hi there <img src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/fire.gif?raw=true" alt="hello" width="30" height="30"/>
 
-### I'm Ben, live in Belgium & I've been a <del>front-end</del> web-developer since.. '99 (I guess) when I built my first website at the age of 14!
+### I'm Ben
 
-#### It was then I started experimenting with code & entered the beautiful world of html & css.
+#### I live in Belgium & I've been a <del>front-end</del> web-developer since.. '99 (I guess) when I built my first website at the age of 14!
 
-##### It was then I started experimenting with code & entered the beautiful world of html & css
+It was then I started experimenting with code & entered the beautiful world of html & css.
 
 <!--
 **benvanlooy/benvanlooy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
