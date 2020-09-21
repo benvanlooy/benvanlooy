@@ -1,6 +1,6 @@
 ## `Hi there` <img src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/fire.gif?raw=true" alt="hello" width="35" height="35"/>
 
-### I'm Ben
+I'm Ben.
 
 I live in Belgium & I've been a <del>front-end</del> web-developer since.. 1999 when I built my first 'website' at the age of 14!
 
