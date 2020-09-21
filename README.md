@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/fire.gif?raw=true" alt="hello" width="30" height="30"/>
 
 <!--
 **benvanlooy/benvanlooy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
