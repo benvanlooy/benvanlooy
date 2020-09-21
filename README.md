@@ -29,6 +29,7 @@ My big passion has always been "building websites", I've seen a major shift in w
 - 🔭 I’m currently working for BBC (B2B advertising agency)
 - 🌱 I’m currently learning all about PWA's
 - ⚡ Fun fact: I'm one of those developers that wishes he had his own portfolio site but is so picky about the design that I just might never happen ;-)
+- 😠 What I absolutely hate? Recruiters who think Java & JavaScript are the same thing 🙄
 <!--
 Services I've worked with:
 Hubspot, Idomoo, Twilio, Showpad
