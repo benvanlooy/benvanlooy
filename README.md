@@ -6,6 +6,13 @@
 
 It was then I started experimenting with code & entered the beautiful world of html & css. I'm mostly self-taught with the help of the Internet!
 
+## My Stack
+
+## Random stuff about me
+
+- 🔭 I’m currently working for BBC
+- 🌱 I’m currently learning all about PWA's
+
 <!--
 My big passion has always been "building websites", I've seen a major shift in web-development over the last years.
 I've lived through the "revolution" of tables, floats, flexbox,... There's not a day that goes by where I don't discover a really awesome magnificant website, it's then I can't help but right click & start inspecting how it works!
