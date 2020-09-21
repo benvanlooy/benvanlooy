@@ -2,7 +2,7 @@
 
 ### I'm Ben
 
-I live in Belgium & I've been a <del>front-end</del> web-developer since.. 1999 when I built my first website at the age of 14!
+I live in Belgium & I've been a <del>front-end</del> web-developer since.. 1999 when I built my first 'website' at the age of 14!
 
 ## More about me
 
@@ -12,7 +12,7 @@ My big passion has always been "building websites", I've seen a major shift in w
 
 ## My interests
 
-`HTML` // `CSS` // `JavaScript` // `PHP` // `SQL` // `Visual Studio Code` // `GitHub` / `GitLab` // `Sketch` // `Adobe XD` // `Photoshop`
+`HTML` // `CSS` // `JavaScript` // `PHP` // `SQL` // `Visual Studio Code` // `Gulp` // `GitHub` / `GitLab` // `Sketch` // `Adobe XD` // `Photoshop`
 
 ## Random stuff about me
 
