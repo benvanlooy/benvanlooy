@@ -14,14 +14,14 @@ My big passion has always been "building websites", I've seen a major shift in w
 
 `HTML` // `CSS` // `JavaScript` // `PHP` // `SQL` // `API's` // `Visual Studio Code` // `Gulp` // `GitHub` / `GitLab` // `Sketch` // `Adobe XD` // `Photoshop`
 
-## Things I'm good at
+## Things I enjoy making
 
 - Responsive websites (from scratch)
 - Wordpress (Theme development)
 - Hubspot (Theme development)
 - PHP API integrations
 - Responsive HTML mails (believe me, it's an art)
-- Making Macarons
+- Macarons
 
 ## Random stuff about me
 
@@ -30,16 +30,6 @@ My big passion has always been "building websites", I've seen a major shift in w
 - 🌱 I’m currently learning all about PWA's
 - ⚡ Fun fact: I'm one of those developers that wishes he had his own portfolio site but is so picky about the design that I just might never happen ;-)
 <!--
-
-**benvanlooy/benvanlooy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+Services I've worked with:
+Hubspot, Idomoo, Twilio, Showpad
+ -->
