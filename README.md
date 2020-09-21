@@ -1,12 +1,16 @@
-## Hi there <img src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/fire.gif?raw=true" alt="hello" width="30" height="30"/>
+## Hi there <img src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/fire.gif?raw=true" alt="hello" width="35" height="35"/>
 
 ### I'm Ben
 
-#### I live in Belgium & I've been a <del>front-end</del> web-developer since.. '99 (I guess) when I built my first website at the age of 14!
+#### I live in Belgium & I've been a <del>front-end</del> web-developer since.. 1999 (I guess) when I built my first website at the age of 14!
 
-It was then I started experimenting with code & entered the beautiful world of html & css.
+It was then I started experimenting with code & entered the beautiful world of html & css. I'm mostly self-taught with the help of the Internet!
 
 <!--
+My big passion has always been "building websites", I've seen a major shift in web-development over the last years.
+I've lived through the "revolution" of tables, floats, flexbox,... There's not a day that goes by where I don't discover a really awesome magnificant website, it's then I can't help but right click & start inspecting how it works!
+
+
 **benvanlooy/benvanlooy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
