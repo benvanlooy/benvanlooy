@@ -12,7 +12,7 @@ My big passion has always been "building websites", I've seen a major shift in w
 
 ## My Stack
 
-'HTML' // CSS // JavaScript // PHP // Visual Studio Code // GitHub // Sketch // Adobe XD //
+`HTML` // CSS // JavaScript // PHP // Visual Studio Code // GitHub // Sketch // Adobe XD //
 
 ## Random stuff about me
 
