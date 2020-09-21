@@ -12,7 +12,16 @@ My big passion has always been "building websites", I've seen a major shift in w
 
 ## My interests
 
-`HTML` // `CSS` // `JavaScript` // `PHP` // `SQL` // `Visual Studio Code` // `Gulp` // `GitHub` / `GitLab` // `Sketch` // `Adobe XD` // `Photoshop`
+`HTML` // `CSS` // `JavaScript` // `PHP` // `SQL` // `API's` // `Visual Studio Code` // `Gulp` // `GitHub` / `GitLab` // `Sketch` // `Adobe XD` // `Photoshop`
+
+## Things I'm good at
+
+- Responsive websites (from scratch)
+- Wordpress (Theme development)
+- Hubspot (Theme development)
+- PHP API integrations
+- Responsive HTML mails (believe me, it's an art)
+- Making Macarons
 
 ## Random stuff about me
 
